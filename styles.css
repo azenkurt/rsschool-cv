@@ -1,0 +1,25 @@
+body{
+    position: absolute;
+    top: 50%;  
+    left: 50%;
+    margin-left: -512px;  
+    margin-top: -225px;
+    width: 1024px;
+    height: 450px;       
+}
+p {
+    height: 90%;
+    width: 100%;
+    font: 30px 'Times New Roman';
+    text-align: center;         
+}
+header{
+    height: 60px;
+    border-bottom: 1px solid black;
+}
+img{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    display: inline-block;   
+}
