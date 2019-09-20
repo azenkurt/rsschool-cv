@@ -1,17 +1,17 @@
 body{
     position: absolute;
-    width: 1024px;
-    height: 450px;
-    left: 50%;
-    margin-left: -512px;
     top: 50%;  
+    left: 50%;
+    margin-left: -512px;  
     margin-top: -225px;
+    width: 1024px;
+    height: 450px;       
 }
 p {
-    width: 100%;
-    text-align: center;
     height: 90%;
-    font: 30px 'Times New Roman';     
+    width: 100%;
+    font: 30px 'Times New Roman';
+    text-align: center;         
 }
 header{
     height: 60px;
@@ -21,7 +21,5 @@ img{
     position: absolute;
     top: 20px;
     left: 20px;
-    width: 50px;
-    height: 50px;
     display: inline-block;   
 }
